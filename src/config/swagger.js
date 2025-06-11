@@ -13,6 +13,10 @@ const options = {
         url: 'http://localhost:3000',
         description: 'Servidor de desenvolvimento',
       },
+      {
+        url: 'https://meus-carros-backend.onrender.com',
+        description: 'Servidor de produção',
+      },
     ],
     components: {
       securitySchemes: {
